@@ -1,0 +1,14 @@
+D:\lab_PSU\Object_oriented_programming\2\2\bin\Debug\net8.0\2.exe
+D:\lab_PSU\Object_oriented_programming\2\2\bin\Debug\net8.0\2.deps.json
+D:\lab_PSU\Object_oriented_programming\2\2\bin\Debug\net8.0\2.runtimeconfig.json
+D:\lab_PSU\Object_oriented_programming\2\2\bin\Debug\net8.0\2.dll
+D:\lab_PSU\Object_oriented_programming\2\2\bin\Debug\net8.0\2.pdb
+D:\lab_PSU\Object_oriented_programming\2\2\obj\Debug\net8.0\2.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab_PSU\Object_oriented_programming\2\2\obj\Debug\net8.0\2.AssemblyInfoInputs.cache
+D:\lab_PSU\Object_oriented_programming\2\2\obj\Debug\net8.0\2.AssemblyInfo.cs
+D:\lab_PSU\Object_oriented_programming\2\2\obj\Debug\net8.0\2.csproj.CoreCompileInputs.cache
+D:\lab_PSU\Object_oriented_programming\2\2\obj\Debug\net8.0\2.dll
+D:\lab_PSU\Object_oriented_programming\2\2\obj\Debug\net8.0\refint\2.dll
+D:\lab_PSU\Object_oriented_programming\2\2\obj\Debug\net8.0\2.pdb
+D:\lab_PSU\Object_oriented_programming\2\2\obj\Debug\net8.0\2.genruntimeconfig.cache
+D:\lab_PSU\Object_oriented_programming\2\2\obj\Debug\net8.0\ref\2.dll
