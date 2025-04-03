@@ -1,0 +1,130 @@
+header {
+    background-color: #273d53; 
+    padding: 15px; 
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around; 
+    align-items: center; 
+}
+
+header a {
+    color: #ecf0f1;
+    text-decoration: none;
+    padding: 10px 15px; 
+    border-radius: 5px; 
+    transition: background-color 0.5s ease;
+}
+
+header a:hover {
+    background-color: #4d6780; 
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    gap: 10px;
+}
+
+.diva {
+    background-color: #273d53; 
+    padding: 15px; 
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around; 
+    align-items: center; 
+}
+
+.diva a{
+    color: #ecf0f1;
+    text-decoration: none;
+    padding: 10px 15px; 
+    border-radius: 5px; 
+    transition: background-color 5.5s ease;
+}
+
+.diva a:hover {
+    background-color: #4d6780; 
+}
+
+button{
+    border: none;
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+}
+
+.bone{
+    transition: 1.5s ease;
+}
+
+.bone:hover{
+    background-color: rgb(104, 19, 19);
+}
+
+.btwo{
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    transition: 0.3s ease;
+}
+
+.btwo:hover {
+    background-color: rgb(0, 139, 32);
+    transform: scale(0.5);
+}
+
+.bthree{
+    transition: 0.8s ease;
+}
+
+.bthree:hover{
+    opacity: 0.3;
+}
+
+@keyframes move{
+    0% {opacity: 0;  }
+    25% {opacity: 0.25;  }
+    50% {opacity: 0.5;  }
+    75% {opacity: 0.75;  }
+    100% {opacity: 1;  }
+}
+
+.pone{
+    animation: move 3s;
+}
+
+@keyframes scale{
+    0% {scale: 0.5;}
+    25% {scale: 0.75;}
+    50% {scale: 1;}
+    75% {scale: 1.25;}
+    100% {scale: 1.5;}
+}
+
+.ptwo{
+    animation: scale 3s;
+}
+
+img{
+    width: 150px;
+    height: 100px;
+    transition: 0.8s ease;
+    margin: 10px;
+}
+
+.ione:hover{
+    transform: scale(1.5);
+}
+
+.itwo:hover{
+    transform: scale(0.5);
+}
+
+.ithree:hover{
+    transform: rotate(360deg);
+}
+
+
+
