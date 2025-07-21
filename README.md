@@ -1,31 +1,44 @@
-# lab_PSU
+# Computer Systems and Networks (CSN) - Course Labs
 
-## Описание
-В этом репозитории представлены лабораторные работы, выполненные в рамках учебного курса в ПГУ. Каждая работа охватывает различные аспекты программирования и разработки программного обеспечения.
+## 📚 Repository Description
+This repository contains laboratory works completed as part of the academic curriculum at Polotsk State University. The labs cover various aspects of programming, networking, and software development.
 
-## 2_sem
-- **Functional_programming**: 
-  - В этой лабораторной работе я изучил основы функционального программирования. Я реализовал чистые функции, функции высшего порядка и использовал неизменяемость данных. В результате я создал несколько примеров, которые помогли мне закрепить полученные знания.
+## 🧪 Laboratory Works
 
-- **Information_theory**: 
-  - В лабораторной работе по теории информации я познакомился с основными понятиями, такими как энтропия, кодирование и передача информации. Я решил задачи, связанные с измерением информации и разработкой алгоритмов кодирования, что дало мне глубокое понимание этой темы.
+### 2nd Semester Labs
 
-- **Object_oriented_programming**: 
-  - В этой лабораторной работе я сосредоточился на объектно-ориентированном программировании (ООП). Я изучил принципы ООП, такие как инкапсуляция, наследование и полиморфизм. Я создал несколько классов и объектов, которые реализуют указанные принципы, что позволило мне лучше понять их применение.
+#### Functional Programming
+- Studied core concepts of functional programming including pure functions, higher-order functions, and immutable data structures
+- Implemented practical examples demonstrating functional paradigms
+- Gained understanding of declarative programming approaches
 
-- **User_interface_development**: 
-  - В лабораторной работе по разработке пользовательского интерфейса я научился создавать удобные и интуитивно понятные интерфейсы с использованием HTML, CSS и JavaScript. Я работал над проектами, требующими взаимодействия пользователя с приложениями, и изучил основы UX/UI дизайна.
+#### Information Theory
+- Explored fundamental concepts: entropy, information encoding, and data transmission
+- Solved problems related to information measurement and encoding algorithms
+- Developed practical understanding of information compression techniques
 
-- **Web_technologies**: 
-  - В этой лабораторной работе я сосредоточился на современных веб-технологиях. Я изучил основы разработки веб-приложений, включая работу с API, фреймворками и библиотеками. Я создал простое веб-приложение, используя полученные знания, что дало мне практический опыт в этой области.
+#### Object-Oriented Programming
+- Mastered OOP principles: encapsulation, inheritance, and polymorphism
+- Designed and implemented class hierarchies demonstrating these concepts
+- Applied OOP patterns to solve programming challenges
 
-## Используемые технологии
-- C#
-- HTML
-- CSS
-- JavaScript
+#### User Interface Development
+- Created intuitive interfaces using HTML, CSS, and JavaScript
+- Applied UX/UI design principles in practical projects
+- Developed interactive web applications with user-centric design
 
-## Установка и запуск
-1. Склонируйте репозиторий:
+#### Web Technologies
+- Built web applications using modern frameworks and libraries
+- Worked with REST APIs and client-server architecture
+- Implemented full-stack solutions combining frontend and backend technologies
+
+## 🛠️ Technologies Used
+- **Programming Languages**: C#, JavaScript
+- **Web Development**: HTML5, CSS3
+- **Tools**: Visual Studio, VS Code
+- **Version Control**: Git
+
+## 🚀 Installation & Setup
+1. Clone the repository:
    ```bash
    git clone https://github.com/VadimStrapko/lab_PSU.git
