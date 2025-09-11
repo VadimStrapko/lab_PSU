@@ -1,0 +1,14 @@
+D:\lab_PSU\Information_theory\2_3\2_3\bin\Debug\net8.0\2_3.exe
+D:\lab_PSU\Information_theory\2_3\2_3\bin\Debug\net8.0\2_3.deps.json
+D:\lab_PSU\Information_theory\2_3\2_3\bin\Debug\net8.0\2_3.runtimeconfig.json
+D:\lab_PSU\Information_theory\2_3\2_3\bin\Debug\net8.0\2_3.dll
+D:\lab_PSU\Information_theory\2_3\2_3\bin\Debug\net8.0\2_3.pdb
+D:\lab_PSU\Information_theory\2_3\2_3\obj\Debug\net8.0\2_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab_PSU\Information_theory\2_3\2_3\obj\Debug\net8.0\2_3.AssemblyInfoInputs.cache
+D:\lab_PSU\Information_theory\2_3\2_3\obj\Debug\net8.0\2_3.AssemblyInfo.cs
+D:\lab_PSU\Information_theory\2_3\2_3\obj\Debug\net8.0\2_3.csproj.CoreCompileInputs.cache
+D:\lab_PSU\Information_theory\2_3\2_3\obj\Debug\net8.0\2_3.dll
+D:\lab_PSU\Information_theory\2_3\2_3\obj\Debug\net8.0\refint\2_3.dll
+D:\lab_PSU\Information_theory\2_3\2_3\obj\Debug\net8.0\2_3.pdb
+D:\lab_PSU\Information_theory\2_3\2_3\obj\Debug\net8.0\2_3.genruntimeconfig.cache
+D:\lab_PSU\Information_theory\2_3\2_3\obj\Debug\net8.0\ref\2_3.dll

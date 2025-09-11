@@ -1,0 +1,5 @@
+Quantum computing represents both a threat and opportunity for cryptography. While quantum algorithms like Shor's algorithm can break current public-key cryptosystems, quantum key distribution offers theoretically unbreakable encryption based on the principles of quantum mechanics. 
+
+The field of post-quantum cryptography is actively developing new algorithms resistant to quantum attacks. Lattice-based cryptography, hash-based signatures, and multivariate cryptography are among the leading candidates for securing digital communications in the quantum era.
+
+Despite these advances, classical cryptanalysis techniques remain relevant for analyzing historical ciphers and understanding the fundamental principles of information security. The Kasiski examination method continues to be taught in cryptography courses as an important milestone in the history of cryptanalysis.
